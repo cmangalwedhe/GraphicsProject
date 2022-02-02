@@ -1,7 +1,7 @@
-# Chinmay Mangalwedhe, Allen Romo, and Breaden Drosche
+# Chinmay Mangalwedhe, Allen Romo, and Braeden Drosche
 ## Graphics Project
 
-### This project was designed to test our knowledge of basics graphics.
+### This project was designed for students to practice the Java packaged Abstract Window Toolkit (AWT) and Swing components.
 
 Teacher: Hulett  
 Course: Computer Science I K  
