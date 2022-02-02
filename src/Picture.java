@@ -24,6 +24,7 @@ public class Picture extends JPanel {
          */
 
         g.setColor(new Color(79, 78, 78));
+        
 
         Polygon mainRoad = new Polygon(xPts, yPts, 3);
         g.fillPolygon(mainRoad);
@@ -47,7 +48,7 @@ public class Picture extends JPanel {
     }
 
     public void drawGround(Graphics g) {
-        
+
     }
 
     public void drawRoadSign(Graphics g) {
